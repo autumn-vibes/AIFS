@@ -30,7 +30,7 @@ Sahil Chutani|Participant, Devashish|Participant, Neelanjan Mahato|Participant
 <hr>
 7. Detailed Explanation of the Idea 
 <br>
-Now-a-days Rate of Failure of StartUp is High. The Main reas behid this is the motive of the Entrepreneurs. The entrepreneur aim to look for a solution and then find a problem to sync the solution with it. The Result is No or less customer base with in turn will cause the statup to go into losses and eventually shut down.
+Nowadays Rate of Failure at StartUp is High. The Main area behind this is the motive of the Entrepreneurs. The entrepreneur aims to look for a solution and then find a problem to sync the solution with it. The Result is No or less customer base with in turn will cause the startup to go into losses and eventually shut down.
 <hr>
 8. Solution provided 
 <br>
